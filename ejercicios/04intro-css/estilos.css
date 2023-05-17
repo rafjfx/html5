@@ -49,11 +49,22 @@ margin-right: 8cm;
     border-color: rgb(255, 0, 55);
     border-width: 5px;
     width: 500px;
+    padding: 20px;
+    margin: 10px;
+
+
+}
+.encabezado{
+    padding-left: 90px;
+    font-family: Dancing Script, cursive;
 
 }
 .descripcion {
-    font-size: 25px;
+    font-size: 30px;
     color: aquamarine;
     background-color: blue;
     border-style: double;
+    padding: 50px 10px 50px 120px;
+    font-family: 'Arimo', sans-serif;
+
 }

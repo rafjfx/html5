@@ -1,0 +1,12 @@
+#elemento-1 {
+    font-size: 2rem;
+    color: red;
+}
+.listas {
+    font-size: 30px;
+    color: aquamarine;
+    background-color: rgb(70, 92, 64);
+    width: 500px;
+    padding: 20px 0px 20px 150px;
+    border-style: double;
+}
