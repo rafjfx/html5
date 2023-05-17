@@ -1,0 +1,59 @@
+h1 {
+    color: red;
+}
+/* Estoy probando fuentes y colores */
+p {
+    color: rgb(30, 30, 206);
+    font-size: 16pt;
+}
+#primera-noticia {
+    color:darkkhaki;
+    font-style: italic;
+    font-size: 24pt;
+
+}
+#segunda-noticia {
+    color: brown;
+}
+.encabezado {
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+.warning {
+    color: rgb(158, 18, 163);
+}
+.autor, .fecha, #segunda-noticia {
+    text-decoration: underline;
+}
+
+.pure-button {
+    background: rgb(104, 205, 197);
+}
+.fondo {
+margin-right: 8cm;
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/89a052ddc6d368ce93d9067e8444c36a3558efe7/f9e10/static/triangle_background2-6eded4a7ad80c007fb65f02c828e5dd0.jpg");
+}
+.ancho {
+    background-color: rgb(189, 213, 211) ;
+
+    width: 150px;
+    font-size: large;
+    font-style: oblique;
+}
+.alto {
+    color: blueviolet;
+    font-size:xx-large;
+}
+.tarjeta {
+    border-style:solid;
+    border-color: rgb(255, 0, 55);
+    border-width: 5px;
+    width: 500px;
+
+}
+.descripcion {
+    font-size: 25px;
+    color: aquamarine;
+    background-color: blue;
+    border-style: double;
+}
