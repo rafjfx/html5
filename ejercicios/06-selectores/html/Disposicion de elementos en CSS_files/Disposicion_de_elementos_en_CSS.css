@@ -5,18 +5,10 @@
     flex-wrap: wrap;
 }
 .container img {
-    padding: 2;
     height: 200px;
-    width: 300px;
+    width: 250px;
     border: 2px solid rgb(71, 141, 255);
-}
-.boton {
-    opacity: 0.3;
 }
 .boton:hover {
     color:rgb(218, 15, 76);
-    opacity: 1;
-}
-.boton:active {
-    color:rgb(135, 255, 71)
 }
