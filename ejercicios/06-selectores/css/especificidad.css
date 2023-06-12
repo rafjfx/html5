@@ -1,0 +1,15 @@
+h1 {
+    color: blue !important; /*especificidad maxima */
+}
+h1#h1-id.h1-class { /*aumentando la especificidad (1,1,1) */
+    color: green;
+}
+p {
+    color: red;
+}
+#h1-id {
+    color:yellow;
+}
+.h1-class {
+    color: black;
+}
