@@ -1,0 +1,12 @@
+button.boton::before {
+    content:"PASA POR ENCIMA";
+}
+.boton:hover {
+    color: white;
+    background-color: green;
+}
+.boton:active::before{
+    background-color:chocolate;
+    content:"HECHO" !important;
+
+}
