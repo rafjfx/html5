@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tipos de datos y variables</title>
+
+
+</head>
+<body>
+   <script> 
+    var prueba = "esto es una prueba: ", numero1 = 10, numero2= 8, cadena = "klh";
+    console.log("oepradores");
+    console.log(numero1 + numero2);
+    console.log(numero1);
+    console.log(typeof numero1); // number
+		console.log(typeof cadena); // string
+		console.log(typeof true); // boolean
+    console.log(false );
+
+    var semaforo = "rojo";
+    if(semaforo === "verde")
+      alert("verde");
+    else if(semaforo === "rojo")
+      window.alert("rojo");
+    else alert("amarillo");
+    function nombre() { // se llama desde fuera
+      alert("hola");
+    };
+ 
+      </script>
+      <form>
+        <input type="button" value="APRETAME" onclick="nombre()"/>
+      </form>
+</body>
+</html>

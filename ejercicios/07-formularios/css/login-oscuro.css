@@ -122,12 +122,12 @@
     }
     label input:hover {
         background-color: #454045;
-        border: solid 1px rgb(247, 183, 208);
+        border: solid 1px rgb(183, 247, 192);
         box-shadow: 0 3px 3px rgb(242, 191, 210);
     }
     label input:focus {
         background-color: #454045;
-        border: solid 1px rgb(247, 183, 208);
+        border: solid 1px rgb(183, 247, 192);
         box-shadow: 0 3px 3px rgb(242, 191, 210);
     }
     .checkbox-label {
